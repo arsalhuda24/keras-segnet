@@ -1,0 +1,7 @@
+Image,GroundTruth
+train1/frame0.jpg,train1/Label0.jpg
+train1/frame1.jpg,train1/Label1.jpg
+train1/frame2.jpg,train1/Label2.jpg
+train1/frame3.jpg,train1/Label3.jpg
+train1/frame4.jpg,train1/Label4.jpg
+train1/frame5.jpg,train1/Label5.jpg
